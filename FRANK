@@ -429,7 +429,7 @@
     </mxGraphModel>
   </diagram>
   <diagram id="4vn19XCzSMN20uf4vFzF" name="ROBORIO">
-    <mxGraphModel dx="413" dy="197" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FF8000" math="0" shadow="0">
+    <mxGraphModel dx="712" dy="340" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" background="#FF8000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -564,9 +564,9 @@
             <mxPoint x="24" as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9NOpPWP47RbPORxmp9v-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=15;strokeColor=#007FFF;" edge="1" parent="1">
+        <mxCell id="G9NOpPWP47RbPORxmp9v-3" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=30;strokeColor=#007FFF;" edge="1" parent="1">
           <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="497" y="277" as="sourcePoint" />
+            <mxPoint x="498" y="220" as="sourcePoint" />
             <mxPoint x="498" y="362" as="targetPoint" />
           </mxGeometry>
         </mxCell>
