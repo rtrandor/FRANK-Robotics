@@ -1,3 +1,3 @@
-# teals-python
-my initial repository to explore python scripting
+# FRANK robot
+Robotics FRANK electrical components
 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/teals-python/HEAD)
