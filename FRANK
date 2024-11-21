@@ -211,9 +211,9 @@
             <mxPoint x="1243" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ueenu7DNCqVZEMPTnRUm-6" value="0006N" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ueenu7DNCqVZEMPTnRUm-5" vertex="1" connectable="0">
+        <mxCell id="ueenu7DNCqVZEMPTnRUm-6" value="0006N - SPR2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-85;" parent="ueenu7DNCqVZEMPTnRUm-5" vertex="1" connectable="0">
           <mxGeometry x="-0.022" y="4" relative="1" as="geometry">
-            <mxPoint as="offset" />
+            <mxPoint x="2" y="-12" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ueenu7DNCqVZEMPTnRUm-9" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=10;" parent="1" edge="1">
@@ -277,9 +277,9 @@
             <mxPoint x="1269" y="516" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ueenu7DNCqVZEMPTnRUm-22" value="0006P" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="ueenu7DNCqVZEMPTnRUm-21" vertex="1" connectable="0">
+        <mxCell id="ueenu7DNCqVZEMPTnRUm-22" value="0006P - SPR2" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-85;" parent="ueenu7DNCqVZEMPTnRUm-21" vertex="1" connectable="0">
           <mxGeometry x="-0.0402" relative="1" as="geometry">
-            <mxPoint x="11" y="-78" as="offset" />
+            <mxPoint x="9" y="-88" as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="ueenu7DNCqVZEMPTnRUm-23" value="" style="endArrow=none;html=1;rounded=0;strokeWidth=10;strokeColor=#dc0909;" parent="1" edge="1">
