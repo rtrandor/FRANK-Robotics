@@ -548,7 +548,7 @@
             <mxPoint x="670" y="342" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="G9NOpPWP47RbPORxmp9v-4" value="11ETH" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" parent="G9NOpPWP47RbPORxmp9v-3" vertex="1" connectable="0">
+        <mxCell id="G9NOpPWP47RbPORxmp9v-4" value="11ETH - RPMNI" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];rotation=-90;" parent="G9NOpPWP47RbPORxmp9v-3" vertex="1" connectable="0">
           <mxGeometry x="0.1055" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
